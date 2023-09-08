@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.sidebar {
+    width: 250px;
+    background-color: #2fb86d;
+    color: rgb(0, 0, 0);
+    height: 100vh;
+    position: fixed;
+    width: 200px;
+}
+
+.sidebar ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.sidebar li {
+    margin: 10px;
+}
+
+.sidebar a {
+    text-decoration: none;
+    color: rgb(14, 13, 13);
+}
